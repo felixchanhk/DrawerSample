@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Drawer例子</string>
+    <string name="navigation_drawer_open">打開導航抽屜2</string>
+    <string name="navigation_drawer_close">關閉導航抽屜3</string>
+    <string name="nav_header_desc">導航標題6</string>
+    <string name="action_settings">設定</string>
+    <string name="chat_fragment_content">聊天頁</string>
+    <string name="Share">分享</string>
+</resources>
